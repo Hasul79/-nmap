@@ -60,6 +60,17 @@ nmap -A [Target]
 <li>
 
   ```
+nmap --proxy [ProxyIP:ProxyPort] [Target]
+
+```
+<p>Сканирование с прокси:</p>
+--proxy: Указание прокси-сервера для сканирования.
+<br/>
+</li>
+<br/>
+<li>
+
+  ```
 nmap -oN output.txt [Target]
 
 ```
