@@ -4,7 +4,7 @@
   <li>
   
 ```
-nmap -p- [Target]
+nmap  [Target]
 
 ```
     
